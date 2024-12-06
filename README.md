@@ -36,6 +36,10 @@ Olá, meu nome é Leonardo Braga. E esse é o desafio para o bootcamp da RiHappy
     - Introdução ao Firebase
     - Integração com o Firebase
 
+### 📄 Como Testar
+
+1. Clone este repositório para sua máquina local.
+2. Abra o arquivo `index.html` em seu navegador web.
 
 ## 🔗 Links auxiliares
 
@@ -44,7 +48,7 @@ Olá, meu nome é Leonardo Braga. E esse é o desafio para o bootcamp da RiHappy
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
 
-### Créditos
+### 🔍 Créditos
 
 Este jogo foi desenvolvido, por Leonardo Braga, como parte de um projeto educacional da Digital Innovation One.
 
